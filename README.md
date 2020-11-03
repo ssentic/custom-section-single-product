@@ -10,6 +10,7 @@ Product pages usually include default sections - product summary, tabs with deta
 ## Display section based on the selected language
 
 In some cases, you may want to display your custom section only when certain language is selected. Here's a solution. 
+
 Snippet can also be simply modified to check different condition.
 
 **Usage:** add the snippet from conditional-custom-section-single-product.php to your child theme's functions.php file.
