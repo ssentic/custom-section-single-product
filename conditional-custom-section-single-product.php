@@ -1,7 +1,7 @@
 <?php
 
 function custom_section_product_page() {
-	// explode url after slash to determine what language is used
+    // explode url after slash to determine what language is used
     $exp = explode('/',$_SERVER['REQUEST_URI']); 
     $language = $exp[1];
     // check if used language is english
